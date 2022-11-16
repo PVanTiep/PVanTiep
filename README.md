@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phan Văn Tiệp</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47hz2p3wa5lay9pil69c2qlay5jho4iy0q3uhlumrd&rid=giphy.gif&ct=g" />
+
  💬 Ask me about **Java, OOP, Springboot, Mysql** </br>
  📫 How to reach me **0.199qui@gmail.com**</br>
 ⚡ Fun fact I think I am very funny & friendly</br>
